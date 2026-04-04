@@ -1,8 +1,8 @@
 const http = require('http');
 const https = require('https');
 
-const USERNAME = "337873717105";
-const PASSWORD = "775558539494";
+const USERNAME = "848278428260";
+const PASSWORD = "232140880725";
 const PROVIDER_URL = "http://freeiptv.ottc.xyz:80/get.php?username=" + USERNAME + "&password=" + PASSWORD + "&type=m3u_plus&output=ts";
 
 http.createServer((req, res) => {
